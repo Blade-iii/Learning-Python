@@ -1,0 +1,11 @@
+Age = 0
+
+Age = input ("Your Age")
+
+Age = int(Age)
+
+if Age >= 18:
+    print("you are old enough to drive")
+else:
+    print("You are not old enought to drive")
+
